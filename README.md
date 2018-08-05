@@ -1,6 +1,6 @@
 # Golang-Resty-Experiment
 
-This project contains a function IsValidIdentityByPhone that checks if a name matches the subsriber of a phone number via the WhitePagesPro API. Unit tests and a benchmark test are included.
+This project contains a function IsValidIdentityByPhone that checks if a name matches the subsriber of a phone number via the WhitePagesPro API. Unit tests and a benchmark test are included. Test results are included in results.txt
 
 Build:
 
