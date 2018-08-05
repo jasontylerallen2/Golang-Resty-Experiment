@@ -26,7 +26,7 @@ Run tests:
 
 Run Included Executable (runs main):
 
-  $ ./Go_Resty_Experiment
+  $ ./Go_Resty_Experiment.exe
   
 ========================================================
 
