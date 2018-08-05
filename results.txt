@@ -1,0 +1,11 @@
+=== RUN   TestIsValidIdentityByPhone
+--- PASS: TestIsValidIdentityByPhone (0.48s)
+	CandidateProject_test.go:78: Invalid phone number: potato
+PASS
+coverage: 100% files, 63.6% of statements
+
+goos: windows
+goarch: amd64
+pkg: CandidateProject
+BenchmarkTestIsValidIdentityByPhone-4   	       5	 249885000 ns/op
+PASS
